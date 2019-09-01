@@ -1,4 +1,4 @@
-trape (stable) v2.0
+Track (stable) v2.0
 ========
 
 People tracker on the Internet: Learn to track the world, to avoid being traced.
@@ -73,9 +73,9 @@ How to use it
 -------
  First unload the tool.
 ```
-git clone https://github.com/jofpin/trape.git
-cd trape
-python2 trape.py -h
+git clone https://github.com/alec14324/Trap.git
+cd Trap
+python2 trap.py -h
 ```
 If it does not work, try to install all the libraries that are located in the file **requirements.txt**
 ```
@@ -137,12 +137,8 @@ We are totally convinced that if we teach how vulnerable things really are, we c
 
 Developer
 -------
-This development and others, the participants will be mentioned with name, Twitter and charge.
-
-* **CREATOR**
-
-  --- Jose Pino - [@jofpin](https://twitter.com/jofpin) - (**Security Researcher**) 
- 
+This development and others, the participants will be mentioned with name, Telegram
+https://t.me/alex14324
 
 Happy hacking!
 -------
@@ -153,6 +149,5 @@ I invite you, if you use this tool helps to share, collaborate. Let's make the I
 
 The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
 
-Copyright, 2018 by [Jose Pino](https://twitter.com/jofpin) 
 
 -------------
