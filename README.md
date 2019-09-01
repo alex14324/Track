@@ -73,9 +73,9 @@ How to use it
 -------
  First unload the tool.
 ```
-git clone https://github.com/alex14324/Trap.git
+git clone https://github.com/alex14324/Track.git
 cd Trap
-python2 trap.py -h
+python2 track.py -h
 ```
 If it does not work, try to install all the libraries that are located in the file **requirements.txt**
 ```
@@ -84,13 +84,13 @@ python2 -m pip install -r requirements.txt
 
 Example of execution
 ```
-Example: python2 trap.py --url http://example.com --port 8080
+Example: python2 track.py --url http://example.com --port 8080
 ```
 
 **HELP  AND OPTIONS**
 ```
-user:~$ python2 trap.py --help
-usage: python trap.py -u <> -p <> [-h] [-v] [-u URL] [-p PORT]
+user:~$ python2 track.py --help
+usage: python track.py -u <> -p <> [-h] [-v] [-u URL] [-p PORT]
                                               [-ak ACCESSKEY] [-l LOCAL]
                                               [--update] [-n] [-ic INJC]
 
