@@ -73,7 +73,7 @@ How to use it
 -------
  First unload the tool.
 ```
-git clone https://github.com/alec14324/Trap.git
+git clone https://github.com/alex14324/Trap.git
 cd Trap
 python2 trap.py -h
 ```
@@ -84,13 +84,13 @@ python2 -m pip install -r requirements.txt
 
 Example of execution
 ```
-Example: python2 trape.py --url http://example.com --port 8080
+Example: python2 trap.py --url http://example.com --port 8080
 ```
 
 **HELP  AND OPTIONS**
 ```
-user:~$ python2 trape.py --help
-usage: python trape.py -u <> -p <> [-h] [-v] [-u URL] [-p PORT]
+user:~$ python2 trap.py --help
+usage: python trap.py -u <> -p <> [-h] [-v] [-u URL] [-p PORT]
                                               [-ak ACCESSKEY] [-l LOCAL]
                                               [--update] [-n] [-ic INJC]
 
@@ -145,9 +145,3 @@ Happy hacking!
 I invite you, if you use this tool helps to share, collaborate. Let's make the Internet a safer place, let's report.
 
 
-## License
-
-The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
-
-
--------------
